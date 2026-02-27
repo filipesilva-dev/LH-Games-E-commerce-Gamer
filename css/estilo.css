@@ -1,0 +1,88 @@
+/*cabeçalho*/
+
+header img {
+    width: 120px;
+}
+
+.navbar {
+    padding: 15px;
+}
+
+
+/*conteudo principal*/
+
+main {
+    margin-top: 20px;
+}
+
+
+/*banner*/
+
+#section-banners img {
+    height: 400px;
+    object-fit: cover;
+}
+
+
+/*produtos vendidos*/
+
+#section-vendidos {
+    text-align: center;
+    padding: 40px 0;
+}
+
+#section-vendidos h2 {
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.card {
+    margin: 10px;
+}
+
+.card img {
+    height: 250px;
+    object-fit: cover;
+}
+
+.preco {
+    font-size: 20px;
+    font-weight: bold;
+    color: #198754;
+}
+
+
+/*rodapé*/
+
+footer {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
+
+
+/*botão voltar topo*/
+
+#voltar-topo {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+}
+
+
+/* página de login  */
+
+#login {
+    width: 400px;
+    margin: 60px auto;
+}
+
+
+/* formulário de cadastro*/
+
+#cadastro {
+    width: 500px;
+    margin: 60px auto;
+}
