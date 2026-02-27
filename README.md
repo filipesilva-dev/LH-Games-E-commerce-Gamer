@@ -95,4 +95,5 @@ O site está publicado em **GitHub Pages**. Acesse diretamente pelo navegador:
 
 ## 👨‍💻 Autor
 Filipe Silva da Fonseca
+
 Desenvolvido para atividade acadêmica de **Codificação Front‑End – Senai**.
