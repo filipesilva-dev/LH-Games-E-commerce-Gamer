@@ -21,27 +21,28 @@ O site simula uma loja de games chamada **LH Games**, contendo:
 - JavaScript  
 - jQuery  
 
-## 📂 Estrutura do Projeto
+```text
+📂
 │
 ├── css/
-│ └── estilo.css
+│   └── estilo.css
 │
 ├── js/
-│ ├── script.js
-│ └── jquery-script.js
+│   ├── script.js
+│   └── jquery-script.js
 │
 ├── img/
-│ ├── banner1.PNG
-│ ├── banner2.PNG
-│ ├── banner3.PNG
-│ ├── jogo1.PNG
-│ ├── jogo2.PNG
-│ ├── jogo3.PNG
-│ └── logo.png
+│   ├── banner1.PNG
+│   ├── banner2.PNG
+│   ├── banner3.PNG
+│   ├── jogo1.PNG
+│   ├── jogo2.PNG
+│   ├── jogo3.PNG
+│   └── logo.png
 │
 ├── index.html
 └── login.html
-
+```
 ## ⚙️ Funcionalidades Implementadas
 
 - Validação simples de login  
