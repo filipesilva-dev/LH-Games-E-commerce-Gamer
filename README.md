@@ -22,8 +22,6 @@ O site simula uma loja de games chamada **LH Games**, contendo:
 - jQuery  
 
 ## 📂 Estrutura do Projeto
-
-📂/
 │
 ├── css/
 │ └── estilo.css
@@ -33,10 +31,16 @@ O site simula uma loja de games chamada **LH Games**, contendo:
 │ └── jquery-script.js
 │
 ├── img/
+│ ├── banner1.PNG
+│ ├── banner2.PNG
+│ ├── banner3.PNG
+│ ├── jogo1.PNG
+│ ├── jogo2.PNG
+│ ├── jogo3.PNG
+│ └── logo.png
 │
 ├── index.html
 └── login.html
-
 
 ## ⚙️ Funcionalidades Implementadas
 
