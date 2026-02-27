@@ -56,8 +56,7 @@ Funcionalidades principais:
 
 O site está publicado em **GitHub Pages**. Acesse diretamente pelo navegador:
 
-🔗 [https://seu-usuario.github.io/seu-repositorio/](https://seu-usuario.github.io/seu-repositorio/)
-
+🔗 [https://filipesilva-dev.github.io/LH-Games-E-commerce-Gamer/](https://filipesilva-dev.github.io/LH-Games-E-commerce-Gamer/)
 ---
 
 ## 🛠️ Tecnologias Utilizadas
